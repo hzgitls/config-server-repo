@@ -1,14 +1,14 @@
 spring:
   application:
     name: config
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/hzgitls/config-server-repo
-          username: 13735560295@163.com
-          password: hzgitls13735560295
-          timeout: 3000
+#   cloud:
+#     config:
+#       server:
+#         git:
+#           uri: https://github.com/hzgitls/config-server-repo
+#           username: 13735560295@163.com
+#           password: hzgitls13735560295
+#           timeout: 3000
 
 eureka:
   client:
