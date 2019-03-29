@@ -9,7 +9,10 @@ spring:
           username: 13735560295@163.com
           password: hzgitls13735560295
           timeout: 3000
-
+eureka:
+ client:
+   service-url:
+     defaultZone: http://localhost:8761/eureka/
 
 
 env:
