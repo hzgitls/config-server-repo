@@ -10,10 +10,7 @@ spring:
           password: hzgitls13735560295
           timeout: 3000
 
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8762/eureka/
+
 
 env:
   dev
