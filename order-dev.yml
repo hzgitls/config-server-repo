@@ -17,3 +17,5 @@ eureka:
 
 nev:
   dev
+label:
+  rele
